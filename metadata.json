@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart CCTV Car Tracker",
+  "description": "A sophisticated dashboard that simulates real-time car detection and tracking from a CCTV feed using a mock AI model. It provides a visualization of detected vehicles, logs events, and displays analytics.",
+  "requestFramePermissions": []
+}
